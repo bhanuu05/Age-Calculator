@@ -5,7 +5,9 @@
   <img src="assets/icon/app_icon.png" width="100" alt="App Icon"/>
 </p>
 
-<p align="center"><em>Timeless Accuracy, Effortless Age Calculation Mastery</em></p>
+<p align="center"><em>Age Calculator is a simple, elegant, and accurate mobile application built using Flutter that allows users to calculate their age in years, months, and days based on their birthdate. The app also provides a countdown to the next birthday and supports light and dark mode themes for better user experience.
+
+With a sleek and minimal UI, birthday-themed visuals, and responsive performance, the app is a handy tool for everyday age calculations. Whether you're checking a friend's birthday or tracking your own milestones, this app delivers instant results in a clean and intuitive interface.</em></p>
 
 ---
 
@@ -42,36 +44,20 @@
 - ✨ Modern UI with rounded cards and animations
 - 🧁 Birthday-themed **app icon & splash screen**
 
----
 
-## 🚀 Getting Started
-
-To clone and run this project:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/age_calculator.git
-cd age_calculator
-flutter pub get
-flutter run
-```
 
 ---
 
 ## 📦 APK
 
-[Download Latest APK](https://github.com/YOUR_USERNAME/age_calculator/releases) *(Coming soon)*
+[Download Latest APK](https://github.com/bhanuu05/Age-Calculator/releases)
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 ## 💡 Author
 
 Made with ❤️ by **Bhanu Pratap Singh**
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuu05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanuu05/)
 
